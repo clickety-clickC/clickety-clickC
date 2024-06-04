@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋 </h1>
+<h1 align="center">Hi 👋 Dan Mutugi</h1>
 <h3 align="center">Some days I research security. Other days I'm scrolling through youtube - trying to find that Uncle Roger or Gordon Ramsay video for inspiration.</h3>
 
-- 🌱 I’m currently learning **Governance, Risk and Compliance**
-
-- 📫 How to reach me **dicetastespice@hotmail.com**
+- 🌱 I’m currently learning **Governance, Risk and Compliance (GRC)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/clickety_clickc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clickety_clickc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
