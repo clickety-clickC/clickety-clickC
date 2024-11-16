@@ -1,5 +1,5 @@
-<h1 align="center">This website is currently under delicate construction</h1>
-<h3 align="center">It's going to be completed . . . someday (soon). Come back then to see what awesome website is built.</h3>
+<h1 align="center">This account is currently under delicate construction</h1>
+<h3 align="center">It's going to be completed . . . someday (soon). Come back then to see what awesome account is built.</h3>
 
 **Wait! You Forgot To Join The Waitlist**
 
